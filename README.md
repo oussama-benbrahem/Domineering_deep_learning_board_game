@@ -27,7 +27,7 @@ The objective of this project is to implement an algorithm that plays: Human vs 
 
 ## Domineering game
 <p align="center">
-  <img width="460" height="300" src="https://cdn.ima.org.uk/wp/wp-content/uploads/2015/08/Domineering-Comments-on-a-Game-of-No-Chance-figure-6.png">
+  <img width="600" height="600" src="https://cdn.ima.org.uk/wp/wp-content/uploads/2015/08/Domineering-Comments-on-a-Game-of-No-Chance-figure-6.png">
 </p>
 
 
