@@ -26,9 +26,10 @@ Table of contents
 The objective of this project is to implement an algorithm that plays: Human vs Computer or Computer vs Computer. The computer can play randomly or using MCTS or using Reinforcement learning.
 
 ## Domineering game
+<p align="center">
+  <img width="460" height="300" src="https://cdn.ima.org.uk/wp/wp-content/uploads/2015/08/Domineering-Comments-on-a-Game-of-No-Chance-figure-6.png">
+</p>
 
-
-![js-standard-style](https://cdn.ima.org.uk/wp/wp-content/uploads/2015/08/Domineering-Comments-on-a-Game-of-No-Chance-figure-6.png)
 
 ## Game Rules
 Domineering (also called Stop-Gate or Crosscram) is a mathematical game played on a sheet of graph paper, with any set of designs traced out.
